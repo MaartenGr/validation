@@ -12,3 +12,5 @@ Subjects include:
 * McNemar's test
 * 5x2CV paired t-test
 * 5x2CV combined F test
+
+<img src="https://github.com/MaartenGr/validation/blob/master/Images/validation.png" height="200"/>
